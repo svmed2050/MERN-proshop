@@ -2,8 +2,6 @@
 
 [Demo Link](https://giddy-jacket-tuna.cyclic.app)
 
-https://giddy-jacket-tuna.cyclic.app/
-
 How to pay your order by PayPal
 (through sanbox, fake payment for order)
 
