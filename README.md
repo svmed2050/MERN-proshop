@@ -1,6 +1,6 @@
 # ProShop - MERN Project
 
-[Demo Link](https://giddy-jacket-tuna.cyclic.app)
+[Demo Link](https://giddy-jacket-tuna.cyclic.app) << Click here
 
 How to pay your order by PayPal
 (through sanbox, fake payment for order)
