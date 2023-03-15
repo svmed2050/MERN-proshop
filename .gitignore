@@ -10,8 +10,9 @@ node_modules/
 /coverage
 
 # production
-/build
+/frontend/build
 
+cheat-sheet.js
 # misc
 .DS_Store
 .env
